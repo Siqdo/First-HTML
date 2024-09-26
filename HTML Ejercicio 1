@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="es-ES">
 <head>
+    <title> ¿Qué es HTML? </title>
     <meta name="author" content="Marc García">
-    <meta http-equiv="Pragma" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta name="keywords" content="Hipertexto, marcas, etiquetas, CSS, raíz, web, lenguaje, elemento">
+    <meta charset="UTF-8">
 </head>
 <body>
-    <h1> ¿Qué es HTML? </h1>
     <h2> HTML: Lenguaje de etiquetas de hipertexto </h2>
     <p> HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. Define el significado y la estructura del 
         contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la 
